@@ -162,7 +162,7 @@ const animationTimeline = () => {
         ease: Expo.easeOut,
       },
       0.2,
-      "+=3"
+      "+=0.5"
     )
     .from(
       ".profile-picture",
